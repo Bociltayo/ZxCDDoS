@@ -1,5 +1,5 @@
 ##############################
-# ZxCDDoS Made by zxcr9999   #
+# C2 Made by Yoo   #
 # COPY = NIGGER              #
 ##############################
 
@@ -754,8 +754,8 @@ CLEAR   ► CLEAR TERMINAL
 
 def login():
     clear()
-    user = "admin"
-    passwd = "admin"
+    user = "yooganteng"
+    passwd = "yooganteng"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
